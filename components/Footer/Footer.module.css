@@ -1,0 +1,7 @@
+.footer {
+  @apply bg-quaternary w-full p-4;
+
+  .footer__content {
+    @apply flex justify-center items-center;
+  }
+}
